@@ -1,2 +1,2 @@
 # hello-world
-Hello all - I am stuck in Bermuda waiting for hurricane Joaquin to pass before I can return home.
+Hello all - I am no longer stuck in Bermuda waiting for hurricane Joaquin to pass.
